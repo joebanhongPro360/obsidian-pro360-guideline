@@ -31,12 +31,14 @@
 - [[raw/README|Raw Sources]]：原始資料放置說明。
 - [[raw/前端專案指引|前端專案指引]]：PRO360 前端 repository、共用模組與版本規則的初始 raw notes；尚未正式 ingest。
 - [[raw/專案連結|專案連結]]：前端 repository 的 code URL 清單，並連回前端專案指引 raw notes。
+- [[raw/pro360系統術語|PRO360 系統術語]]：由 Notion link 來源整理的 PRO360 產品、報價、新客源與前端相關術語 raw notes；尚未正式 ingest。
 - [[LLM-wiki|LLM-wiki]]：此 vault 採用的知識庫維護方法論。
 
 ## Pending Ingest
 
 - [[raw/前端專案指引|前端專案指引]]：待確認 repository 命名、shared module 邊界、API Key 版本機制與適用範圍後，再拆成產品、架構與工作流程頁。
 - [[raw/專案連結|專案連結]]：可作為 repository 來源索引；待搭配專案 README 或 onboarding 文件補齊用途與工作流程。
+- [[raw/pro360系統術語|PRO360 系統術語]]：待拆入 [[術語表]]，並依內容連到產品、feature、architecture 或 workflow 頁。
 
 ## Maintenance Notes
 

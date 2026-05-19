@@ -11,3 +11,8 @@
 - Source: [[raw/前端專案指引]], [[raw/專案連結]]
 - Updated: [[index]], [[前端架構地圖]], [[工作流程地圖]]
 - Notes: 登錄前端專案指引與 repository 連結作為待匯入 raw sources；補上候選來源與 open questions，但暫不建立正式產品 / 架構實體頁，避免把未確認資訊升格為 wiki 結論。
+
+## [2026-05-19] maintenance | PRO360 system terms raw cleanup
+- Source: [[raw/pro360系統術語]]
+- Updated: [[raw/pro360系統術語]], [[index]]
+- Notes: 依 Notion link 來源將 PRO360 系統術語整理成完整 Markdown raw，並加入 updated 紀錄：2026-05-19 14:31:46 CST。來源：https://www.notion.so/pro360-co/PRO360-bf5db664acfc471d8a08459eecee9179
