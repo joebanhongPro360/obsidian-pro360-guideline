@@ -21,3 +21,8 @@
 - Source: [[raw/Environment]]
 - Updated: [[環境與 API 文件]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
 - Notes: 整理 Notion Environment 來源中的 Development、Staging、Production、Production Beta 與 API 文件入口；未補齊的環境切換、操作限制與文件維護規則標記為待補。來源：https://www.notion.so/pro360-co/Environment-d7d39ad90a7f46fc88080f408b96389b
+
+## [2026-05-19] ingest | 套件使用與功能描述
+- Source: [[raw/套件使用與功能描述]]
+- Updated: [[前端套件與第三方服務]], [[前端架構地圖]], [[index]]
+- Notes: 將 packages、SDK 與第三方服務清單整理為架構頁；raw 已依 [[raw/pro360系統術語]] 模板補上 metadata、Updated、Notes 與 Source，updated time：2026-05-19 15:13:59 CST。來源未指出 repository、版本或實際使用位置，相關資訊標記為待補。

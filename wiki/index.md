@@ -21,6 +21,7 @@
 ## Frontend Architecture
 
 - [[前端架構地圖]]：前端架構與技術概念的總覽頁。
+- [[前端套件與第三方服務]]：整理前端 packages、SDK 與第三方服務的用途分類與待確認問題。
 
 ## Workflows
 
@@ -34,6 +35,7 @@
 - [[raw/專案連結|專案連結]]：前端 repository 的 code URL 清單，並連回前端專案指引 raw notes。
 - [[raw/pro360系統術語|PRO360 系統術語]]：由 Notion link 來源整理的 PRO360 產品、報價、新客源與前端相關術語 raw notes；尚未正式 ingest。
 - [[raw/Environment|Environment]]：由 Notion link 來源複製的環境與 API 文件入口 raw notes；已整理為 [[環境與 API 文件]]。
+- [[raw/套件使用與功能描述|套件使用與功能描述]]：前端 packages 與第三方服務功能描述 raw notes；已整理為 [[前端套件與第三方服務]]。
 - [[LLM-wiki|LLM-wiki]]：此 vault 採用的知識庫維護方法論。
 
 ## Pending Ingest
