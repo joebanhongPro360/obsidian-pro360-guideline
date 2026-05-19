@@ -29,7 +29,14 @@
 ## Sources
 
 - [[raw/README|Raw Sources]]：原始資料放置說明。
+- [[raw/前端專案指引|前端專案指引]]：PRO360 前端 repository、共用模組與版本規則的初始 raw notes；尚未正式 ingest。
+- [[raw/專案連結|專案連結]]：前端 repository 的 code URL 清單，並連回前端專案指引 raw notes。
 - [[LLM-wiki|LLM-wiki]]：此 vault 採用的知識庫維護方法論。
+
+## Pending Ingest
+
+- [[raw/前端專案指引|前端專案指引]]：待確認 repository 命名、shared module 邊界、API Key 版本機制與適用範圍後，再拆成產品、架構與工作流程頁。
+- [[raw/專案連結|專案連結]]：可作為 repository 來源索引；待搭配專案 README 或 onboarding 文件補齊用途與工作流程。
 
 ## Maintenance Notes
 
