@@ -26,3 +26,8 @@
 - Source: [[raw/套件使用與功能描述]]
 - Updated: [[前端套件與第三方服務]], [[前端架構地圖]], [[index]]
 - Notes: 將 packages、SDK 與第三方服務清單整理為架構頁；raw 已依 [[raw/pro360系統術語]] 模板補上 metadata、Updated、Notes 與 Source，updated time：2026-05-19 15:13:59 CST。來源未指出 repository、版本或實際使用位置，相關資訊標記為待補。
+
+## [2026-05-19] maintenance | Raw template cleanup
+- Source: [[raw/Environment]], [[raw/pro360系統術語]], [[raw/前端專案指引]], [[raw/套件使用與功能描述]], [[raw/專案連結]]
+- Updated: [[raw/Environment]], [[raw/pro360系統術語]], [[raw/前端專案指引]], [[raw/套件使用與功能描述]], [[raw/專案連結]], [[template/raw-source-table-example]], [[log]]
+- Notes: 依使用者調整後的 raw template 規則，保留 frontmatter、Notes 與主要內容區塊，移除重複的頁面標題、Updated 與 Source 區塊；補齊套件來源連結，並同步精簡 template example。

@@ -1,3 +1,18 @@
+---
+title: Environment
+source:
+  - https://www.notion.so/pro360-co/Environment-d7d39ad90a7f46fc88080f408b96389b
+updated: 2026-05-19 15:21:34 CST
+---
+
+## Notes
+
+- 本檔為 `raw/` 原始資料整理檔，內容以來源表格為準。
+- 保留環境名稱、用途、URL 與 API 文件入口，不補猜測內容。
+- Production Beta 使用正式環境資料，實際操作限制待補。
+
+## Environments and API Docs
+
 - Development：開發中環境
     - 本機端開發用執行環境，並使用staging的資料環境
 - Staging：上機測試環境
