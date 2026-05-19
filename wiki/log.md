@@ -16,3 +16,8 @@
 - Source: [[raw/pro360系統術語]]
 - Updated: [[raw/pro360系統術語]], [[index]]
 - Notes: 依 Notion link 來源將 PRO360 系統術語整理成完整 Markdown raw，並加入 updated 紀錄：2026-05-19 14:31:46 CST。來源：https://www.notion.so/pro360-co/PRO360-bf5db664acfc471d8a08459eecee9179
+
+## [2026-05-19] ingest | Environment
+- Source: [[raw/Environment]]
+- Updated: [[環境與 API 文件]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
+- Notes: 整理 Notion Environment 來源中的 Development、Staging、Production、Production Beta 與 API 文件入口；未補齊的環境切換、操作限制與文件維護規則標記為待補。來源：https://www.notion.so/pro360-co/Environment-d7d39ad90a7f46fc88080f408b96389b

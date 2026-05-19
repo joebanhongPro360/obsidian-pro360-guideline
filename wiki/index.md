@@ -25,6 +25,7 @@
 ## Workflows
 
 - [[工作流程地圖]]：前端工作流程的總覽頁。
+- [[環境與 API 文件]]：整理 Development、Staging、Production、Production Beta 的用途、URL 與 API 文件入口。
 
 ## Sources
 
@@ -32,6 +33,7 @@
 - [[raw/前端專案指引|前端專案指引]]：PRO360 前端 repository、共用模組與版本規則的初始 raw notes；尚未正式 ingest。
 - [[raw/專案連結|專案連結]]：前端 repository 的 code URL 清單，並連回前端專案指引 raw notes。
 - [[raw/pro360系統術語|PRO360 系統術語]]：由 Notion link 來源整理的 PRO360 產品、報價、新客源與前端相關術語 raw notes；尚未正式 ingest。
+- [[raw/Environment|Environment]]：由 Notion link 來源複製的環境與 API 文件入口 raw notes；已整理為 [[環境與 API 文件]]。
 - [[LLM-wiki|LLM-wiki]]：此 vault 採用的知識庫維護方法論。
 
 ## Pending Ingest

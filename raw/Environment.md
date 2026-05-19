@@ -1,0 +1,15 @@
+- Development：開發中環境
+    - 本機端開發用執行環境，並使用staging的資料環境
+- Staging：上機測試環境
+    - 發布於staging機器上部署進行發布前功能測試
+    - 資料皆為測試資料，可任意操作
+    - [https://staging.pro360.com.tw](https://staging.pro360.com.tw)
+- Production：正式發布環境
+    - [https://www.pro360.com.tw](https://www.pro360.com.tw)
+- Production Beta：正式環境的功能測試
+    - 提供新功能上線前，可利用正式環境資料進行確認結果
+    - [https://beta.pro360.com.tw](https://beta.pro360.com.tw)
+- API說明文件（舊版）
+    - [PRO360 API 說明文件 - Google 文件](https://docs.google.com/document/d/1yBnqjGt1PQCAAaRPeSJRfpVCmX-mgneF2WfNrmlA_dE/edit#heading=h.pyebc1x1hkxr)
+- API說明文件（新版）
+    - [https://api-staging.pro360.com.tw/api_doc/api/index](https://api-staging.pro360.com.tw/api_doc/api/index)
