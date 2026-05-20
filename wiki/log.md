@@ -48,3 +48,9 @@
 - Source: [[AGENTS]]
 - Updated: [[AGENTS]], [[log]]
 - Notes: 更新 ingest workflow 規則；當使用者提供 `updated: now` 時，應自動轉成目前本地時間格式 `YYYY-MM-DD HH:mm:ss CST`，其他明確 metadata 值仍照原文保留。
+
+## [2026-05-20] ingest | 前端專案版本維護流程
+- Source: [[raw/前端專案版本維護流程]]
+- Updated: [[前端專案版本維護流程]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
+- Template: normalized raw source note / workflow page
+- Notes: 已依使用者提供 metadata 補上 raw frontmatter、source、updated 與 Notes；將 Web App、Web Front、Web Kit 的版本號、API_KEY、branch、CI/CD 與 deploy script 操作整理為 workflow 頁，並將 release branch 流程標記為來源建議、正式採用狀態待補。來源：https://www.notion.so/pro360-co/Note-889220a833e84088b72efd13629e9cd7
