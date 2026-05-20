@@ -12,7 +12,7 @@ This vault follows the LLM-wiki pattern in `LLM-wiki.md`. The LLM maintains the 
 
 ## Directory Ownership
 
-- `raw/`: immutable source notes and imported material. Read from this directory, but do not rewrite its contents unless the user explicitly asks.
+- `raw/`: source notes and imported material. Preserve source facts and provenance. It is allowed to normalize formatting to match `template/` before ingesting, but do not invent facts, remove source context, or rewrite meaning.
 - `template/`: source format templates. Use this directory to check whether `raw/` files follow an expected source structure before ingesting.
 - `wiki/`: maintained knowledge base. Create and update these pages when ingesting sources or filing useful query results.
 - `wiki/index.md`: content index. Update it whenever pages are added or materially changed.
@@ -142,14 +142,20 @@ Use for frontend development, review, release, QA, incident, and documentation w
 
 1. Read the new source from `raw/`.
 2. Inspect `template/` and compare the source against the closest matching template.
-3. If the source follows a known template, mention the template name in the ingest log.
-4. If the source is missing expected fields or has malformed sections, do not rewrite `raw/` unless explicitly asked. Record missing or unclear information as `待補` in the generated wiki page.
-5. If format issues block reliable ingestion, report the issue and suggest which template the source should follow.
-6. Identify product, feature, architecture, workflow, people/team, and decision entities.
-7. Create or update the relevant `wiki/` pages.
-8. Add bidirectional links where useful. Every feature should link to its product and relevant frontend concepts when known.
-9. Update `wiki/index.md` with new or changed pages and one-line summaries.
-10. Append one entry to `wiki/log.md` using this format:
+3. If the source does not follow a known template, normalize the raw note to the closest template before ingesting when this can be done without inventing facts or changing meaning.
+4. Before normalizing a new raw source, ask the user to confirm metadata:
+   - `source`: URL or `none`
+   - `updated`: date/time or `none`
+5. At minimum, add YAML frontmatter with `title`, `source`, and `updated`, followed by a `## Notes` section that explains how the raw note was preserved.
+6. If the user provides `none` for `source` or `updated`, write `待補` for that field. If the user provides values, preserve them exactly unless they need Markdown/YAML escaping.
+7. If expected fields are missing, mark them as `待補` instead of guessing.
+8. If format issues block reliable ingestion even after normalization, report the issue and suggest which template the source should follow.
+9. Mention the template name or normalization status in the ingest log.
+10. Identify product, feature, architecture, workflow, people/team, and decision entities.
+11. Create or update the relevant `wiki/` pages.
+12. Add bidirectional links where useful. Every feature should link to its product and relevant frontend concepts when known.
+13. Update `wiki/index.md` with new or changed pages and one-line summaries.
+14. Append one entry to `wiki/log.md` using this format:
 
 ```markdown
 ## [YYYY-MM-DD] ingest | Source title

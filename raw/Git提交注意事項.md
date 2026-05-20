@@ -1,3 +1,18 @@
+---
+title: Git提交注意事項
+source:
+  - https://www.notion.so/pro360-co/Git-1069b837ab1080b88a20f23da420b6aa
+updated: 2026-05-20 09:30:23 CST
+---
+
+## Notes
+
+- 本檔為 `raw/` 原始資料整理檔，內容以 Git commit、branch control、review process 與 hotfix 注意事項為準。
+- 保留 commit message type、ticket number、branch、Merge Request、Code Summary、tag 與 hotfix 規則，不補猜測內容。
+- Release 計畫確認方式、deploy branch 正式名稱、reviewer、CI 與 hotfix 回補流程待補。
+
+## Git Commit and Branch Workflow
+
 commit message 格式如下：
 
 [{Type}] {jira-no}: message..Type: 主要是快速了解這個commit主要的目的

@@ -31,3 +31,9 @@
 - Source: [[raw/Environment]], [[raw/pro360系統術語]], [[raw/前端專案指引]], [[raw/套件使用與功能描述]], [[raw/專案連結]]
 - Updated: [[raw/Environment]], [[raw/pro360系統術語]], [[raw/前端專案指引]], [[raw/套件使用與功能描述]], [[raw/專案連結]], [[template/raw-source-table-example]], [[log]]
 - Notes: 依使用者調整後的 raw template 規則，保留 frontmatter、Notes 與主要內容區塊，移除重複的頁面標題、Updated 與 Source 區塊；補齊套件來源連結，並同步精簡 template example。
+
+## [2026-05-20] ingest | Git提交注意事項
+- Source: [[raw/Git提交注意事項]]
+- Updated: [[Git 提交與分支流程]], [[工作流程地圖]], [[index]]
+- Template: normalized raw source note
+- Notes: 已先將 raw 補上 frontmatter、source、updated、Notes 與內容標題，保留原始 Git commit、branch control、MR review、release MR、Code Summary 與 hotfix 規則，再整理為 workflow 頁。

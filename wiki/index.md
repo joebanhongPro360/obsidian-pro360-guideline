@@ -27,6 +27,7 @@
 
 - [[工作流程地圖]]：前端工作流程的總覽頁。
 - [[環境與 API 文件]]：整理 Development、Staging、Production、Production Beta 的用途、URL 與 API 文件入口。
+- [[Git 提交與分支流程]]：整理 commit message type、ticket number、branch、MR review、release MR 與 hotfix 規則。
 
 ## Sources
 
@@ -36,6 +37,7 @@
 - [[raw/pro360系統術語|PRO360 系統術語]]：由 Notion link 來源整理的 PRO360 產品、報價、新客源與前端相關術語 raw notes；尚未正式 ingest。
 - [[raw/Environment|Environment]]：由 Notion link 來源複製的環境與 API 文件入口 raw notes；已整理為 [[環境與 API 文件]]。
 - [[raw/套件使用與功能描述|套件使用與功能描述]]：前端 packages 與第三方服務功能描述 raw notes；已整理為 [[前端套件與第三方服務]]。
+- [[raw/Git提交注意事項|Git提交注意事項]]：commit message、branch control、review process 與 hotfix raw notes；已整理為 [[Git 提交與分支流程]]。
 - [[LLM-wiki|LLM-wiki]]：此 vault 採用的知識庫維護方法論。
 
 ## Pending Ingest
