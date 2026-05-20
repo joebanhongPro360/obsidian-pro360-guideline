@@ -42,6 +42,7 @@
 - [[raw/套件使用與功能描述|套件使用與功能描述]]：前端 packages 與第三方服務功能描述 raw notes；已整理為 [[前端套件與第三方服務]]。
 - [[raw/版控/Git提交注意事項|Git提交注意事項]]：commit message、branch control、review process 與 hotfix raw notes；已整理為 [[Git 提交與分支流程]]。
 - [[raw/版控/前端專案版本維護流程|前端專案版本維護流程]]：Web App、Web Front、Web Kit 版本維護、API_KEY、branch 與 deploy script raw notes；已整理為 [[前端專案版本維護流程]]。
+- [[raw/版控/WebApp-TW 版控紀錄|WebApp-TW 版控紀錄]]：WebApp-TW release version log，已依 deploy version log template 整理為可查詢 raw source；尚未拆成產品或 feature wiki 頁。
 - [[raw/staging測試技巧|staging測試技巧]]：Staging 測試資料與本機 nginx Reverse Proxy 測試設定；已整理為 [[Staging 測試技巧]] 與 [[本機 Reverse Proxy 測試設定]]。
 - [[LLM-wiki|LLM-wiki]]：此 vault 採用的知識庫維護方法論。
 
@@ -50,6 +51,7 @@
 - [[raw/前端專案指引|前端專案指引]]：待確認 repository 命名、shared module 邊界、API Key 版本機制與適用範圍後，再拆成產品、架構與工作流程頁。
 - [[raw/專案連結|專案連結]]：可作為 repository 來源索引；待搭配專案 README 或 onboarding 文件補齊用途與工作流程。
 - [[raw/pro360系統術語|PRO360 系統術語]]：待拆入 [[術語表]]，並依內容連到產品、feature、architecture 或 workflow 頁。
+- [[raw/版控/WebApp-TW 版控紀錄|WebApp-TW 版控紀錄]]：待依版本 notes 拆出產品、feature、architecture 與 workflow 連結。
 
 ## Maintenance Notes
 

@@ -56,6 +56,12 @@
 - Notes: 已依使用者提供 metadata 補上 raw frontmatter、source、updated 與 Notes；將 Web App、Web Front、Web Kit 的版本號、API_KEY、branch、CI/CD 與 deploy script 操作整理為 workflow 頁，並將 release branch 流程標記為來源建議、正式採用狀態待補。來源：https://www.notion.so/pro360-co/Note-889220a833e84088b72efd13629e9cd7
 
 ## [2026-05-20] maintenance | 版控 raw sources organization
-- Source: [[raw/版控/Git提交注意事項]], [[raw/版控/前端專案版本維護流程]], [[raw/版控/Web App 版控紀錄]]
+- Source: [[raw/版控/Git提交注意事項]], [[raw/版控/前端專案版本維護流程]], [[raw/版控/WebApp-TW 版控紀錄]]
 - Updated: [[raw/README]], [[Git 提交與分支流程]], [[前端專案版本維護流程]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
 - Notes: 將 Git commit、branch、MR、hotfix、前端版本號與 deploy 相關 raw 文件整理至 `raw/版控/`，並同步更新 wiki 與 log 中指向舊 raw 路徑的 Obsidian links。
+
+## [2026-05-20] maintenance | WebApp-TW 版控紀錄
+- Source: [[raw/版控/WebApp-TW 版控紀錄]]
+- Updated: [[raw/版控/WebApp-TW 版控紀錄]], [[raw/README]], [[index]], [[log]]
+- Template: deploy-version-log-app&front-example
+- Notes: 已訪問 raw 內 23 個公開 Notion version source，將 v5.2.4 至 v6.0.1-2 整理為 version、ai_summary、release_date、status、messages、note 格式；公開頁未提供或空白欄位標記為 `待補`。

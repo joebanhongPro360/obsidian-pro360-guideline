@@ -15,7 +15,7 @@ Examples:
 
 Collections:
 
-- [[raw/版控/Web App 版控紀錄|版控]]：集中放置 Git、branch、MR、release、版本號與 deploy 相關 raw notes。
+- [[raw/版控/WebApp-TW 版控紀錄|版控]]：集中放置 Git、branch、MR、release、版本號與 deploy 相關 raw notes。
 
 The LLM should treat this directory as source material. Generated summaries and cross-linked knowledge should live in `../wiki/`.
 
