@@ -13,6 +13,10 @@ Examples:
 - PR, Issue, or release summaries.
 - Screenshots or assets referenced by notes.
 
+Collections:
+
+- [[raw/版控/Web App 版控紀錄|版控]]：集中放置 Git、branch、MR、release、版本號與 deploy 相關 raw notes。
+
 The LLM should treat this directory as source material. Generated summaries and cross-linked knowledge should live in `../wiki/`.
 
 Before ingesting, the LLM should compare each raw source with `../template/` and report whether the format matches a known template.

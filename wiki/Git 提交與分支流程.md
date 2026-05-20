@@ -50,4 +50,4 @@
 - MR reviewer、CI 檢查、測試通過條件待補。
 
 ## Sources
-- [[raw/Git提交注意事項]]
+- [[raw/版控/Git提交注意事項]]

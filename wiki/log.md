@@ -33,7 +33,7 @@
 - Notes: 依使用者調整後的 raw template 規則，保留 frontmatter、Notes 與主要內容區塊，移除重複的頁面標題、Updated 與 Source 區塊；補齊套件來源連結，並同步精簡 template example。
 
 ## [2026-05-20] ingest | Git提交注意事項
-- Source: [[raw/Git提交注意事項]]
+- Source: [[raw/版控/Git提交注意事項]]
 - Updated: [[Git 提交與分支流程]], [[工作流程地圖]], [[index]]
 - Template: normalized raw source note
 - Notes: 已先將 raw 補上 frontmatter、source、updated、Notes 與內容標題，保留原始 Git commit、branch control、MR review、release MR、Code Summary 與 hotfix 規則，再整理為 workflow 頁。
@@ -50,7 +50,12 @@
 - Notes: 更新 ingest workflow 規則；當使用者提供 `updated: now` 時，應自動轉成目前本地時間格式 `YYYY-MM-DD HH:mm:ss CST`，其他明確 metadata 值仍照原文保留。
 
 ## [2026-05-20] ingest | 前端專案版本維護流程
-- Source: [[raw/前端專案版本維護流程]]
+- Source: [[raw/版控/前端專案版本維護流程]]
 - Updated: [[前端專案版本維護流程]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
 - Template: normalized raw source note / workflow page
 - Notes: 已依使用者提供 metadata 補上 raw frontmatter、source、updated 與 Notes；將 Web App、Web Front、Web Kit 的版本號、API_KEY、branch、CI/CD 與 deploy script 操作整理為 workflow 頁，並將 release branch 流程標記為來源建議、正式採用狀態待補。來源：https://www.notion.so/pro360-co/Note-889220a833e84088b72efd13629e9cd7
+
+## [2026-05-20] maintenance | 版控 raw sources organization
+- Source: [[raw/版控/Git提交注意事項]], [[raw/版控/前端專案版本維護流程]], [[raw/版控/Web App 版控紀錄]]
+- Updated: [[raw/README]], [[Git 提交與分支流程]], [[前端專案版本維護流程]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
+- Notes: 將 Git commit、branch、MR、hotfix、前端版本號與 deploy 相關 raw 文件整理至 `raw/版控/`，並同步更新 wiki 與 log 中指向舊 raw 路徑的 Obsidian links。

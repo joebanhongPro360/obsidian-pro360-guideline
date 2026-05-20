@@ -7,7 +7,7 @@ updated: 2026-05-20 09:30:23 CST
 
 ## Notes
 
-- 本檔為 `raw/` 原始資料整理檔，內容以 Git commit、branch control、review process 與 hotfix 注意事項為準。
+- 本檔為 `raw/版控/` 原始資料整理檔，內容以 Git commit、branch control、review process 與 hotfix 注意事項為準。
 - 保留 commit message type、ticket number、branch、Merge Request、Code Summary、tag 與 hotfix 規則，不補猜測內容。
 - Release 計畫確認方式、deploy branch 正式名稱、reviewer、CI 與 hotfix 回補流程待補。
 
