@@ -13,6 +13,7 @@ This vault follows the LLM-wiki pattern in `LLM-wiki.md`. The LLM maintains the 
 ## Directory Ownership
 
 - `raw/`: immutable source notes and imported material. Read from this directory, but do not rewrite its contents unless the user explicitly asks.
+- `template/`: source format templates. Use this directory to check whether `raw/` files follow an expected source structure before ingesting.
 - `wiki/`: maintained knowledge base. Create and update these pages when ingesting sources or filing useful query results.
 - `wiki/index.md`: content index. Update it whenever pages are added or materially changed.
 - `wiki/log.md`: append-only activity log. Add an entry for each ingest, query filing, lint pass, or major maintenance update.
@@ -140,16 +141,21 @@ Use for frontend development, review, release, QA, incident, and documentation w
 ## Ingest Workflow
 
 1. Read the new source from `raw/`.
-2. Identify product, feature, architecture, workflow, people/team, and decision entities.
-3. Create or update the relevant `wiki/` pages.
-4. Add bidirectional links where useful. Every feature should link to its product and relevant frontend concepts when known.
-5. Update `wiki/index.md` with new or changed pages and one-line summaries.
-6. Append one entry to `wiki/log.md` using this format:
+2. Inspect `template/` and compare the source against the closest matching template.
+3. If the source follows a known template, mention the template name in the ingest log.
+4. If the source is missing expected fields or has malformed sections, do not rewrite `raw/` unless explicitly asked. Record missing or unclear information as `待補` in the generated wiki page.
+5. If format issues block reliable ingestion, report the issue and suggest which template the source should follow.
+6. Identify product, feature, architecture, workflow, people/team, and decision entities.
+7. Create or update the relevant `wiki/` pages.
+8. Add bidirectional links where useful. Every feature should link to its product and relevant frontend concepts when known.
+9. Update `wiki/index.md` with new or changed pages and one-line summaries.
+10. Append one entry to `wiki/log.md` using this format:
 
 ```markdown
 ## [YYYY-MM-DD] ingest | Source title
 - Source: [[raw/source-file]]
 - Updated: [[page-a]], [[page-b]]
+- Template: template-name or 待補
 - Notes:
 ```
 
