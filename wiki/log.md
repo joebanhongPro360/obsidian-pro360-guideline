@@ -37,3 +37,14 @@
 - Updated: [[Git 提交與分支流程]], [[工作流程地圖]], [[index]]
 - Template: normalized raw source note
 - Notes: 已先將 raw 補上 frontmatter、source、updated、Notes 與內容標題，保留原始 Git commit、branch control、MR review、release MR、Code Summary 與 hotfix 規則，再整理為 workflow 頁。
+
+## [2026-05-20] ingest | staging測試技巧
+- Source: [[raw/staging測試技巧]]
+- Updated: [[Staging 測試技巧]], [[本機 Reverse Proxy 測試設定]], [[環境與 API 文件]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
+- Template: normalized raw source note
+- Notes: 已依使用者提供 metadata 補上 raw frontmatter、source、updated 與 Notes；將 Staging 電話驗證、信用卡與 WebATM 測試資料整理為 workflow 頁，並將 nginx Reverse Proxy、hosts、production domain 模擬與 social login 本機測試整理為 architecture 頁。來源：https://www.notion.so/pro360-co/1fa102cae60441068980a8e76a8391d6, https://www.notion.so/pro360-co/d240a4a327364e5292bd718533f76f60
+
+## [2026-05-20] maintenance | Ingest metadata prompt
+- Source: [[AGENTS]]
+- Updated: [[AGENTS]], [[log]]
+- Notes: 更新 ingest workflow 規則；當使用者提供 `updated: now` 時，應自動轉成目前本地時間格式 `YYYY-MM-DD HH:mm:ss CST`，其他明確 metadata 值仍照原文保留。

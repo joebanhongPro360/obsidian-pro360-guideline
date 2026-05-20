@@ -147,7 +147,7 @@ Use for frontend development, review, release, QA, incident, and documentation w
    - `source`: URL or `none`
    - `updated`: date/time or `none`
 5. At minimum, add YAML frontmatter with `title`, `source`, and `updated`, followed by a `## Notes` section that explains how the raw note was preserved.
-6. If the user provides `none` for `source` or `updated`, write `待補` for that field. If the user provides values, preserve them exactly unless they need Markdown/YAML escaping.
+6. If the user provides `none` for `source` or `updated`, write `待補` for that field. If the user provides `updated: now`, convert it to the current local time using `YYYY-MM-DD HH:mm:ss CST`. For other provided values, preserve them exactly unless they need Markdown/YAML escaping.
 7. If expected fields are missing, mark them as `待補` instead of guessing.
 8. If format issues block reliable ingestion even after normalization, report the issue and suggest which template the source should follow.
 9. Mention the template name or normalization status in the ingest log.

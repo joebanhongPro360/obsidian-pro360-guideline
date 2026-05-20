@@ -22,12 +22,14 @@
 
 - [[前端架構地圖]]：前端架構與技術概念的總覽頁。
 - [[前端套件與第三方服務]]：整理前端 packages、SDK 與第三方服務的用途分類與待確認問題。
+- [[本機 Reverse Proxy 測試設定]]：整理用 nginx 在本機測試跨 `web-app` 與 `web-front` 頁面互轉、domain 模擬與 social login 的設定線索。
 
 ## Workflows
 
 - [[工作流程地圖]]：前端工作流程的總覽頁。
 - [[環境與 API 文件]]：整理 Development、Staging、Production、Production Beta 的用途、URL 與 API 文件入口。
 - [[Git 提交與分支流程]]：整理 commit message type、ticket number、branch、MR review、release MR 與 hotfix 規則。
+- [[Staging 測試技巧]]：整理 Staging 電話驗證、信用卡綁卡與 WebATM 測試資料。
 
 ## Sources
 
@@ -38,6 +40,7 @@
 - [[raw/Environment|Environment]]：由 Notion link 來源複製的環境與 API 文件入口 raw notes；已整理為 [[環境與 API 文件]]。
 - [[raw/套件使用與功能描述|套件使用與功能描述]]：前端 packages 與第三方服務功能描述 raw notes；已整理為 [[前端套件與第三方服務]]。
 - [[raw/Git提交注意事項|Git提交注意事項]]：commit message、branch control、review process 與 hotfix raw notes；已整理為 [[Git 提交與分支流程]]。
+- [[raw/staging測試技巧|staging測試技巧]]：Staging 測試資料與本機 nginx Reverse Proxy 測試設定；已整理為 [[Staging 測試技巧]] 與 [[本機 Reverse Proxy 測試設定]]。
 - [[LLM-wiki|LLM-wiki]]：此 vault 採用的知識庫維護方法論。
 
 ## Pending Ingest

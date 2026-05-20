@@ -29,14 +29,17 @@
 - 關聯產品：待補
 - 關聯功能：待補
 - 關聯架構：[[前端架構地圖]]
-- 關聯流程：[[工作流程地圖]]
+- 關聯流程：[[工作流程地圖]]、[[Staging 測試技巧]]、[[本機 Reverse Proxy 測試設定]]
 
 ## Failure Modes
 - 常見問題：Production Beta 使用正式環境資料，操作限制與驗證邊界待補。
 - 預防方式：正式資料相關操作前需確認允許範圍；具體流程待補。
 - 常見問題：新版與舊版 API 文件並存，正確查詢順序與可信來源待補。
 - 預防方式：補齊 API 文件維護規則與 deprecated 判斷方式。
+- 常見問題：Staging 測試資料、Production Beta 正式資料與 Production 正式資料的操作邊界不同。
+- 預防方式：使用 [[Staging 測試技巧]] 的測試資料前先確認目前環境；Production Beta 與 Production 操作限制仍待補。
 
 ## Sources
 - [[raw/Environment]]
+- [[raw/staging測試技巧]]
 - Notion source: https://www.notion.so/pro360-co/Environment-d7d39ad90a7f46fc88080f408b96389b
