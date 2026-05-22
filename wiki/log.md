@@ -70,3 +70,9 @@
 - Source: [[raw/版控/WebApp-TW]]
 - Updated: [[raw/版控/WebApp-TW]], [[raw/README]], [[index]], [[log]]
 - Notes: 將 raw 檔名由 `WebApp-TW 版控紀錄.md` 改為 `WebApp-TW.md`，並同步更新 wiki/index.md、wiki/log.md 與 raw/README.md 的 Obsidian links。
+
+## [2026-05-22] maintenance | WebApp-HK raw normalization
+- Source: [[raw/版控/WebApp-HK]]
+- Updated: [[raw/版控/WebApp-HK]], [[index]], [[log]]
+- Template: deploy-version-log-app&front-example
+- Notes: 參考 [[raw/版控/WebApp-TW]] 的 raw source 結構，將 WebApp-HK v5.1.3 release 訊息整理為 frontmatter、Notes、版本標題、version、ai_summary、release_date、status、messages、note 欄位；原始筆記未提供的欄位標記為 `待補`。
