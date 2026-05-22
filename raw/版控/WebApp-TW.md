@@ -1,5 +1,5 @@
 ---
-title: WebApp-TW 版控紀錄
+title: WebApp-TW
 source: https://pro360-co.notion.site/pro360-releases
 updated: 2026-05-20 17:03:12 CST
 ---
@@ -11,7 +11,7 @@ updated: 2026-05-20 17:03:12 CST
 - 每筆版本標題保留原始公開 Notion source link。
 - Notion page 未提供或欄位為空的 `AI summary`、`messages` 以 `待補` 標記；不從其他版本推測。
 
-# WebApp-TW 版控紀錄
+# WebApp-TW
 
 ## [v6.0.1-2](https://pro360-co.notion.site/v6-0-1-2-3599b837ab108028959fcea28f379225?pvs=74)
 
