@@ -76,3 +76,9 @@
 - Updated: [[raw/版控/WebApp-HK]], [[index]], [[log]]
 - Template: deploy-version-log-app&front-example
 - Notes: 參考 [[raw/版控/WebApp-TW]] 的 raw source 結構，將 WebApp-HK v5.1.3 release 訊息整理為 frontmatter、Notes、版本標題、version、ai_summary、release_date、status、messages、note 欄位；原始筆記未提供的欄位標記為 `待補`。
+
+## [2026-05-22] maintenance | Release log wiki relations
+- Source: [[raw/版控/WebKit-TW]], [[raw/版控/WebFront-TW]], [[raw/版控/WebApp-SG]]
+- Updated: [[前端專案版本維護流程]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
+- Template: wiki relation update
+- Notes: 將 WebKit-TW、WebFront-TW、WebApp-SG release log raw sources 連到 [[前端專案版本維護流程]]，並同步加入 workflow / architecture map 與 index；release log 尚未拆成產品、feature 或架構 wiki 頁。
