@@ -13,7 +13,7 @@ updated: 待補
 
 # WebApp-HK
 
-## [v5.1.3](https://pro360-co.notion.site/v5-1-3-1839b837ab1080f98987dfcdff203f33?pvs=74)
+## [v5.1.3](https://pro360-co.notion.site/v5-1-3-1839b837ab1080f98987dfcdff203f33)
 
 - version: v5.1.3
 - ai_summary: 待補

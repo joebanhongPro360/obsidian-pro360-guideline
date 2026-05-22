@@ -13,7 +13,7 @@ updated: 2026-05-20 17:03:12 CST
 
 # WebApp-TW
 
-## [v6.0.1-2](https://pro360-co.notion.site/v6-0-1-2-3599b837ab108028959fcea28f379225?pvs=74)
+## [v6.0.1-2](https://pro360-co.notion.site/v6-0-1-2-3599b837ab108028959fcea28f379225)
 
 - version: v6.0.1-2
 - ai_summary: 待補
@@ -26,7 +26,7 @@ updated: 2026-05-20 17:03:12 CST
   - IKEA pricing
   - canonical blank when noindex
 
-## [v6.0.1](https://www.notion.so/v6-0-1-3449b837ab10808da8a5f16fb2274acd?pvs=21)
+## [v6.0.1](https://www.notion.so/v6-0-1-3449b837ab10808da8a5f16fb2274acd)
 
 - version: v6.0.1
 - ai_summary: 待補
@@ -51,7 +51,7 @@ updated: 2026-05-20 17:03:12 CST
   - 非台灣國碼儲存修正
   - 電話顯示邏輯修正
 
-## [v6.0.0-5](https://www.notion.so/v6-0-0-5-3219b837ab1080c781e0d3870e8ef28a?pvs=21)
+## [v6.0.0-5](https://www.notion.so/v6-0-0-5-3219b837ab1080c781e0d3870e8ef28a)
 
 - version: v6.0.0-5
 - ai_summary: 待補
@@ -65,7 +65,7 @@ updated: 2026-05-20 17:03:12 CST
   - 遠傳新用戶錯誤訊息跳出
   - 網址跳轉功能異常
 
-## [v6.0.0](https://www.notion.so/v6-0-0-2fd9b837ab108080a7efd6bd05345ad0?pvs=21)
+## [v6.0.0](https://www.notion.so/v6-0-0-2fd9b837ab108080a7efd6bd05345ad0)
 
 - version: v6.0.0
 - ai_summary: 待補
@@ -82,7 +82,7 @@ updated: 2026-05-20 17:03:12 CST
   - 功能錯誤修正：修正電話無法撥號、付款設定錯誤、搜尋框未消失、電話驗證輸入等 UI 異常。
   - 其他介面優化：隱藏僅有一項的「查看全部」按鈕
 
-## [v5.4.4](https://www.notion.so/v5-4-4-2e69b837ab1080b3b737e65f0687dbfb?pvs=21)
+## [v5.4.4](https://www.notion.so/v5-4-4-2e69b837ab1080b3b737e65f0687dbfb)
 
 - version: v5.4.4
 - ai_summary: 待補
@@ -96,7 +96,7 @@ updated: 2026-05-20 17:03:12 CST
   - AI 提需求等待時間優化
   - 修正問卷 action-redirect
 
-## [v5.4.3](https://www.notion.so/v5-4-3-2da9b837ab10800a830aea961dad0b46?pvs=21)
+## [v5.4.3](https://www.notion.so/v5-4-3-2da9b837ab10800a830aea961dad0b46)
 
 - version: v5.4.3
 - ai_summary: 待補
@@ -113,7 +113,7 @@ updated: 2026-05-20 17:03:12 CST
   - 修正離開上傳收據畫面後無法捲動畫面的問題
   - 其他錯誤修正
 
-## [v5.4.2](https://www.notion.so/v5-4-2-2a89b837ab10800c9950f584f1459630?pvs=21)
+## [v5.4.2](https://www.notion.so/v5-4-2-2a89b837ab10800c9950f584f1459630)
 
 - version: v5.4.2
 - ai_summary: 待補
@@ -134,7 +134,7 @@ updated: 2026-05-20 17:03:12 CST
   - WEB-1282 舊 shop 個資同意流程
   - WEB-1283 優惠資訊顯示 issue
 
-## [v5.4.1](https://www.notion.so/v5-4-1-2949b837ab108085af99f497572da669?pvs=21)
+## [v5.4.1](https://www.notion.so/v5-4-1-2949b837ab108085af99f497572da669)
 
 - version: v5.4.1
 - ai_summary: 待補
@@ -155,7 +155,7 @@ updated: 2026-05-20 17:03:12 CST
   - WEB-1280 問卷答題分析事件觸發 issue
   - WEB-1281 評價選擇標籤（PP-408）
 
-## [v5.4.0](https://www.notion.so/v5-4-0-2779b837ab1080589166edd5b38ee6d0?pvs=21)
+## [v5.4.0](https://www.notion.so/v5-4-0-2779b837ab1080589166edd5b38ee6d0)
 
 - version: v5.4.0
 - ai_summary: 待補
@@ -187,7 +187,7 @@ updated: 2026-05-20 17:03:12 CST
   - WEB-1270 - 服務時段/服務說明：返回或完成時應返回上一層
   - WEB-1271 - 案件中心、消費者端：查看需求細節時，日期時間顯示問題
 
-## [v5.3.5](https://www.notion.so/v5-3-5-26a9b837ab108033897ee56920099b36?pvs=21)
+## [v5.3.5](https://www.notion.so/v5-3-5-26a9b837ab108033897ee56920099b36)
 
 - version: v5.3.5
 - ai_summary: 待補
@@ -203,7 +203,7 @@ updated: 2026-05-20 17:03:12 CST
   - Bug Fixes
   - 修正自動報價設定預算顯示錯誤
 
-## [v5.3.4](https://www.notion.so/v5-3-4-25d9b837ab1080138b4febc7252b5288?pvs=21)
+## [v5.3.4](https://www.notion.so/v5-3-4-25d9b837ab1080138b4febc7252b5288)
 
 - version: v5.3.4
 - ai_summary: 待補
@@ -230,7 +230,7 @@ updated: 2026-05-20 17:03:12 CST
   - `QuoteRequestSheet.js` 調整案件詳情頁 UI，包含企業案件標示樣式。
   - `QuoteReminderComposite.js` 費用說明 popup 改用新的 Modal 元件並調整樣式。
 
-## [v5.3.3](https://www.notion.so/v5-3-3-2329b837ab108010bdb5ffd2236e49bb?pvs=21)
+## [v5.3.3](https://www.notion.so/v5-3-3-2329b837ab108010bdb5ffd2236e49bb)
 
 - version: v5.3.3
 - ai_summary: 待補
@@ -257,7 +257,7 @@ updated: 2026-05-20 17:03:12 CST
   - WEB-1230 遠傳合作專案
   - 5.3.3-5（08/18）：遠傳小問題修正
 
-## [v5.3.2](https://www.notion.so/v5-3-2-2229b837ab10806b8647d6bbcecec82e?pvs=21)
+## [v5.3.2](https://www.notion.so/v5-3-2-2229b837ab10806b8647d6bbcecec82e)
 
 - version: v5.3.2
 - ai_summary: 待補
@@ -284,7 +284,7 @@ updated: 2026-05-20 17:03:12 CST
   - WEB-1239 用戶第一次評價文案
   - WEB-1242 媒合專家 - 抽成制
 
-## [v5.3.1](https://www.notion.so/v5-3-1-2119b837ab1080fdab6ac2325254de4a?pvs=21)
+## [v5.3.1](https://www.notion.so/v5-3-1-2119b837ab1080fdab6ac2325254de4a)
 
 - version: v5.3.1
 - ai_summary: 待補
@@ -303,7 +303,7 @@ updated: 2026-05-20 17:03:12 CST
   - Others
   - utm_token 參數問卷提交功能
 
-## [v5.3.0](https://www.notion.so/v5-3-0-1e59b837ab108009bd1af78023463863?pvs=21)
+## [v5.3.0](https://www.notion.so/v5-3-0-1e59b837ab108009bd1af78023463863)
 
 - version: v5.3.0
 - ai_summary: 待補
@@ -321,7 +321,7 @@ updated: 2026-05-20 17:03:12 CST
   - Bug Fixes
   - 修正部分畫面錯誤
 
-## [v5.2.10](https://www.notion.so/v5-2-10-1e59b837ab1080b0ac07ecbc0c99b640?pvs=21)
+## [v5.2.10](https://www.notion.so/v5-2-10-1e59b837ab1080b0ac07ecbc0c99b640)
 
 - version: v5.2.10
 - ai_summary: Read Quote API/Bank Code/Webview
@@ -340,7 +340,7 @@ updated: 2026-05-20 17:03:12 CST
   - Bug Fixes
   - 修正藍新金流帳戶申請畫面缺少分行選項的問題
 
-## [v5.2.9](https://www.notion.so/v5-2-9-1e09b837ab1080ad84a5d03187c585b7?pvs=21)
+## [v5.2.9](https://www.notion.so/v5-2-9-1e09b837ab1080ad84a5d03187c585b7)
 
 - version: v5.2.9
 - ai_summary: 預約達人條款 ＆ 55688 banner
@@ -353,7 +353,7 @@ updated: 2026-05-20 17:03:12 CST
   - 依照律師建議，更新預約達人服務提供文字
   - 55688 使用流程，移除下載 App Banner
 
-## [v5.2.8](https://www.notion.so/v5-2-8-19e9b837ab108028b091c3197a239a2f?pvs=21)
+## [v5.2.8](https://www.notion.so/v5-2-8-19e9b837ab108028b091c3197a239a2f)
 
 - version: v5.2.8
 - ai_summary: 預約達人條款文字
@@ -366,7 +366,7 @@ updated: 2026-05-20 17:03:12 CST
   - 預約達人條款提示文字
   - UI 問題修正
 
-## [v5.2.7](https://www.notion.so/v5-2-7-19e9b837ab1080128459f00c42c627b5?pvs=21)
+## [v5.2.7](https://www.notion.so/v5-2-7-19e9b837ab1080128459f00c42c627b5)
 
 - version: v5.2.7
 - ai_summary: 包租代管 FSM 訂單
@@ -379,7 +379,7 @@ updated: 2026-05-20 17:03:12 CST
   - 主要功能更新
   - 支援舊 Shop 包租代管專案訂單跳轉至 FSM 處理訂單
 
-## [v5.2.6](https://www.notion.so/v5-2-6-1979b837ab108050836dd061a283b3f8?pvs=21)
+## [v5.2.6](https://www.notion.so/v5-2-6-1979b837ab108050836dd061a283b3f8)
 
 - version: v5.2.6
 - ai_summary: 報價列表優化
@@ -403,7 +403,7 @@ updated: 2026-05-20 17:03:12 CST
   - 報價列表狀態管理與排序優化
   - 樣式調整與一致性維護
 
-## [v5.2.5](https://www.notion.so/v5-2-5-19e9b837ab10807f973af1eaa3bfc88c?pvs=21)
+## [v5.2.5](https://www.notion.so/v5-2-5-19e9b837ab10807f973af1eaa3bfc88c)
 
 - version: v5.2.5
 - ai_summary: 更新包括 IKEA 新增區域和車資異動、紗窗價格調整，以及金融機構清單的更新。
@@ -417,7 +417,7 @@ updated: 2026-05-20 17:03:12 CST
   - 更新紗窗服務價
   - 更新金融機構清單
 
-## [v5.2.4-4](https://www.notion.so/v5-2-4-4-1929b837ab10800ebaaec65b0e48cd37?pvs=21)
+## [v5.2.4-4](https://www.notion.so/v5-2-4-4-1929b837ab10800ebaaec65b0e48cd37)
 
 - version: v5.2.4-4
 - ai_summary: Hotfix 專家檔案違規審查 production bug
@@ -429,7 +429,7 @@ updated: 2026-05-20 17:03:12 CST
 - note:
   - Hotfix 專家檔案違規審查 production bug
 
-## [v5.2.4](https://www.notion.so/v5-2-4-1929b837ab1080d28daad0061a55c070?pvs=21)
+## [v5.2.4](https://www.notion.so/v5-2-4-1929b837ab1080d28daad0061a55c070)
 
 - version: v5.2.4
 - ai_summary: 新增專家檔案內容審查的違規提示，評價專家可上傳照片，優化案件列表顯示數量，修正聊天室 footer 顯示問題，移除 PWA 設定。

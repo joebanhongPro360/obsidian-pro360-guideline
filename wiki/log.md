@@ -82,3 +82,9 @@
 - Updated: [[前端專案版本維護流程]], [[工作流程地圖]], [[前端架構地圖]], [[index]]
 - Template: wiki relation update
 - Notes: 將 WebKit-TW、WebFront-TW、WebApp-SG release log raw sources 連到 [[前端專案版本維護流程]]，並同步加入 workflow / architecture map 與 index；release log 尚未拆成產品、feature 或架構 wiki 頁。
+
+## [2026-05-22] maintenance | Version source link cleanup
+- Source: [[raw/版控/WebApp-HK]], [[raw/版控/WebApp-SG]], [[raw/版控/WebApp-TW]], [[raw/版控/WebFront-TW]]
+- Updated: [[raw/版控/WebApp-HK]], [[raw/版控/WebApp-SG]], [[raw/版控/WebApp-TW]], [[raw/版控/WebFront-TW]], [[log]]
+- Template: deploy-version-log-app&front-example
+- Notes: 檢查 `raw/版控/` 內 version heading 的 source links，移除 Notion URL 結尾的 `?pvs=74` 與 `?pvs=21` params；未修改非 version heading 的一般文件連結。

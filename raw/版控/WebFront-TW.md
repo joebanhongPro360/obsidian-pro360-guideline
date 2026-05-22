@@ -30,7 +30,7 @@ updated: 2026-05-22 10:04:39 CST
   - 修正進入空購物車頁面時出現錯誤訊息的問題
   - 2/19 web_common 更新以修復商品頁面無法載入
 
-## [v2.2.0](https://www.notion.so/v2-2-0-2c49b837ab1080cba92ff61aa8672b13?pvs=21)
+## [v2.2.0](https://www.notion.so/v2-2-0-2c49b837ab1080cba92ff61aa8672b13)
 
 - version: v2.2.0
 - ai_summary: 待補
@@ -42,7 +42,7 @@ updated: 2026-05-22 10:04:39 CST
 - note:
   - 待補
 
-## [v2.2.1](https://www.notion.so/v2-2-1-2c49b837ab108003890ddf82e051d2b1?pvs=21)
+## [v2.2.1](https://www.notion.so/v2-2-1-2c49b837ab108003890ddf82e051d2b1)
 
 - version: v2.2.1
 - ai_summary: 待補
@@ -54,7 +54,7 @@ updated: 2026-05-22 10:04:39 CST
 - note:
   - 待補
 
-## [v2.2.2](https://www.notion.so/v2-2-2-2c49b837ab1080d09c68c2f0b93fd34c?pvs=21)
+## [v2.2.2](https://www.notion.so/v2-2-2-2c49b837ab1080d09c68c2f0b93fd34c)
 
 - version: v2.2.2
 - ai_summary: 待補
